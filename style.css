@@ -1,0 +1,29 @@
+.p{
+color:0064ff;
+background-color:c7ea27;
+}
+body{
+background-color:29d7ce;
+
+}
+
+h1{
+color:9a29d7;
+background-color:2a9ad6;
+}
+.mine{
+float:left;
+border:3px double purple;
+border-radius:5px;
+}
+button{
+width:115px;
+height:115px;
+background-color:blue;
+border:3px double purple;
+border-radius:10px;
+}
+a{
+color:white;
+}
+

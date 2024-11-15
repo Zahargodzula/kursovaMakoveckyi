@@ -1,0 +1,36 @@
+body{
+background-color:#DE3163;
+}
+h2{
+background-color:CCCCFF;
+}
+h1{
+color:blue;
+background-color:yellow;
+}
+.gogogo{
+width:400px;
+height:400px;
+float:left;
+border:2px double green;
+border-radius:3px;
+}
+button{
+width:115px;
+height:115px;
+background-color:blue;
+border:3px double purple;
+border-radius:10px;
+}
+a{
+color:white;
+}
+.gif{
+float:right;
+}
+
+
+
+
+
+

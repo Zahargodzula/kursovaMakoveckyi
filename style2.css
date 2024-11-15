@@ -1,0 +1,25 @@
+body{
+background-color:DFFF00;
+}
+h2{
+color:#40E0D0;
+background-color:#6495ED;
+}
+h1{
+color:#839192;
+background-color:#CCCCFF;
+}
+button{
+width:115px;
+height:115px;
+background-color:blue;
+border:3px double purple;
+border-radius:10px;
+}
+a{
+color:white;
+}
+.giph{
+float:right;
+border:2px solid blue;
+}
